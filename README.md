@@ -8,4 +8,4 @@
 
 ## Business Problem
 
-As the main business is to buy and sell houses, their main problem is to determinate whether a house could be a good business. For it 
+As the main business is to buy and sell houses, their main problem is to determinate whether a house could be a good business. In order to accomplish this 
