@@ -1,6 +1,6 @@
 # House Rocket
 
-<img src = "small logo.jpg" alt="Drawing" style="width: 250px;"/>
+<img src = "images/small logo.jpg" alt="Drawing" style="width: 250px;"/>
 
 ## House Rocket Company
 
@@ -20,7 +20,7 @@ In order to solve these problems we will create premisses to analyze if a house 
 
 The initial part of the job is to analyze the available houses in the database provided by House Rocket and determine which are the best business prospects. To organize the opportunities, we will use the BCG matrix (or growth-share matrix) to scale the importance of the business opportunity. 
 
-<img src = 'BCG Matrix.png' style = 'width: 500px;'/>
+<img src = 'images/BCG Matrix.png' style = 'width: 500px;'/>
 
 Below follows the description of each classification and which type of house will be in each:  
 
