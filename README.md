@@ -4,7 +4,7 @@
 
 ## House Rocket Company
 
-**House Rocket** is a buy and sells houses enterprise based in Seattle. The business model is to buy houses and sell them for a higher price, sometimes renovating the acquired house before selling to maximize their value. Hence, the business core is finding undervalued properties and selling them for a higher price. 
+**House Rocket** is a buy and sells houses enterprise based in Seattle. Their business model is to buy houses and sell them for a higher price, sometimes renovating the acquired house before selling to maximize their value. Hence, the business core is finding undervalued properties and selling them for a higher price. 
 
 ## Business Problem
 
@@ -26,14 +26,14 @@ Below follows the description of each classification and which type of house wil
 
 * **Cash Cows:** This product requires little investment and generates cash that can be utilized for investment in other business units. These are the corporation's key source of cash and are specifically the core business. We will consider that houses with the following characteristics are our Cash Cows: 
  * Houses with good conditions that are in the first quantile of price in their region.
- * Houses with waterfront and good conditions are in the first quantile of price.
+ * Houses with waterfront and good conditions that are in the first quantile of price.
  
 * **Stars:**  These products require large investment but also provide large rentability. We will consider that houses with the following characteristics are our Stars:
- * Houses with waterfront in bad condition will require renovation before being sold. We will assume that the renovation cost will be 15% of the house value.
- * Houses with waterfront and grade between 6 and 8. We will assume that with the renovation we can improve the grade up to 2 points and increase the selling price. We will assume that the renovation cost will be 10% of the house value.
+ * Houses with waterfront in bad condition will require renovation before being sold. We will assume that the renovation cost will be 10% of the house value.
+ * Houses with waterfront and grade between 6 and 8. We will assume that with the renovation we can improve the grade up to 2 points and increase the selling price and that the renovation cost will be 10% of the house value.
 
 * **Question Marks:** These products require a huge amount of cash to maintain and special attention to determine if the venture can be indeed viable. We will consider that houses with the following characteristics are our Question Marks:
- * Houses with grades between 6 and 8 and prices below the regional median. We will consider that with the renovation we could improve the grade up to 2 points and increase the selling price. We will assume that the renovation cost will be 10% of the house value.
+ * Houses with grades between 6 and 8 and prices below the regional median. We will consider that with the renovation we could improve the grade up to 2 points and increase the selling price. The renovation cost will be estimated as 10% of the house value.
 
 * **Dogs:** These products don’t generate profit nor require a huge amount of cash and are not to be focused on by the company. We will consider all houses that do not fulfil the requirements above to be Dogs. An important point is that a Dog property can become a cash cow or question mark with the market moves. Hence, it is crucial to keep the housing database updated and follow up with the market.
 
