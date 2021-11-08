@@ -30,11 +30,15 @@ Below follows the description of each classification and which type of house wil
  
 * **Stars:**  These products require large investment but also provide large rentability. We will consider that houses with the following characteristics are our Stars:
  * Houses with waterfront in bad condition will require renovation before being sold. We will assume that the renovation cost will be 10% of the house value.
- * Houses with waterfront and grade between 6 and 8. We will assume that with the renovation we can improve the grade up to 2 points and increase the selling price and that the renovation cost will be 10% of the house value.
+ * Houses with waterfront and grade 11 and 12. We will assume that with the renovation we can improve the grade and increase the selling price and that the renovation cost will be 10% of the house value.
 
 * **Question Marks:** These products require a huge amount of cash to maintain and special attention to determine if the venture can be indeed viable. We will consider that houses with the following characteristics are our Question Marks:
- * Houses with grades between 6 and 8 and prices below the regional median. We will consider that with the renovation we could improve the grade up to 2 points and increase the selling price. The renovation cost will be estimated as 10% of the house value.
+ * Houses with grades 11 and 12 and prices below the regional median. We will consider that with the renovation we could improve the grade and increase the selling price. The renovation cost will be estimated as 10% of the house value.
 
 * **Dogs:** These products don’t generate profit nor require a huge amount of cash and are not to be focused on by the company. We will consider all houses that do not fulfil the requirements above to be Dogs. An important point is that a Dog property can become a cash cow or question mark with the market moves. Hence, it is crucial to keep the housing database updated and follow up with the market.
 
 After we segregate the best buy opportunities for the company, we must analyze when and how much the company should sell the properties. To get this result, we will make a seasonality study among the sell prices and estimate the best period of the year for the real state market.  
+
+## Job Deliver
+
+This project had two steps, the first one was the analysis of the data base in order to filter the houses that matched the definition in our categories and the second one was to create an app with the streamlit library that shows on map the selected houses for the company to buy and sell.   
