@@ -37,8 +37,10 @@ Below follows the description of each classification and which type of house wil
 
 * **Dogs:** These products don’t generate profit nor require a huge amount of cash and are not to be focused on by the company. We will consider all houses that do not fulfil the requirements above to be Dogs. An important point is that a Dog property can become a cash cow or question mark with the market moves. Hence, it is crucial to keep the housing database updated and follow up with the market.
 
-After we segregate the best buy opportunities for the company, we must analyze when and how much the company should sell the properties. To get this result, we will make a seasonality study among the sell prices and estimate the best period of the year for the real state market.  
+After we segregate the best buy opportunities for the company, we analyzed the seasonality effect on the buy prices. We concluded that the best seasons to sell the houses are spring and summer, in which the mean price and the amount of houses offered is higher, into these seasons the best months are March, April, May, June and July. On the other hand, the best seasons to buy houses for a lower price are autumn and winter, especially on November, December, January and Febuary. 
 
 ## Job Deliver
 
-This project had two steps, the first one was the analysis of the data base in order to filter the houses that matched the definition in our categories and the second one was to create an app with the streamlit library that shows on map the selected houses for the company to buy and sell.   
+This project had two steps, the first one was the analysis of the data base in order to filter the houses that matched the definition in our categories and the second one was to create an app with the streamlit library that shows on map the selected houses for the company to buy and sell. The app can be found [here](https://house-rocket-analytic.herokuapp.com/). 
+
+The main objective of the app is to enable the House Rocket team to filter by classification, margin, profit, cost of the house or revenue the houses that were selected as market opportunities. They will be able to download the filtered database and use it to guide their next buy and sell. 
