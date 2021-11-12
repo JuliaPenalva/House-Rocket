@@ -14,7 +14,7 @@ def database(path):
 
 def show_results(data_buy):
     st.title("House Rocket - Analytics Insights")
-    st.sidebar.image("small logo.jpg", use_column_width=True)
+    st.sidebar.image("images/small logo.jpg", use_column_width=True)
 
     # creating filters
     st.sidebar.title("Filters:")
